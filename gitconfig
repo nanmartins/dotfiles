@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = renanmartins989@gmail.com
+	name = Renan Martins
